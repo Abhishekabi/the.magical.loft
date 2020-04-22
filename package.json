@@ -1,0 +1,14 @@
+{
+  "name": "magicalloft",
+  "version": "1.0.0",
+  "description": "Comming soon page for magical loft",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
