@@ -199,6 +199,13 @@ Primary use:
   line-height: 1.1;
 }
 
+.l1-txt3 {
+  font-family: Playlist Script;
+  font-size: 100px;
+  color: #fff;
+  line-height: 1.1;
+}
+
 /*==================================================================
    SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 ==================================================================*/
@@ -643,7 +650,7 @@ Primary use:
 
   /*---------------------------------------------*/
   .respon1 {
-    font-size: 80px;
+    font-size: 60px;
   }
 }
 
@@ -707,4 +714,8 @@ Primary use:
   font-family: "Righteous", cursive;
   font-size: 30px;
   text-decoration: none;
+}
+
+a:hover {
+  color: white;
 }
